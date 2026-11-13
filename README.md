@@ -96,4 +96,4 @@ references/                 rules list, chat setup, troubleshooting, split order
 
 Not affiliated with Shiprocket. Use at your own risk: it books real shipments with real money. Start with the dry run.
 
-MIT licensed.
+MIT licensed. Built by Pratham Junius ([@prathamjr](https://github.com/prathamjr)).
