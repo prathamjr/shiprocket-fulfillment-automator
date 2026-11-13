@@ -1,0 +1,13 @@
+{
+  "name": "shiprocket-fulfillment-automator-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily Shiprocket fulfillment: book couriers, schedule pickups, download verified labels, post a summary.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dry-run": "node fulfill.mjs --dry-run",
+    "check": "node check.mjs all"
+  },
+  "dependencies": { "pdf-lib": "1.17.1" }
+}

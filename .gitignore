@@ -1,0 +1,6 @@
+node_modules/
+engine/.env
+engine/config.json
+engine/run-history.json
+engine/logs/
+.DS_Store

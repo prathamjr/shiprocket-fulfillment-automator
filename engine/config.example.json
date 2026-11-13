@@ -1,0 +1,30 @@
+{
+  "brandName": "My Store",
+  "timezone": "Asia/Kolkata",
+  "outputDir": "~/Desktop/shiprocket-labels",
+
+  "runDays": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+  "runTime": "09:00",
+  "pickupDays": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+  "holidays": [],
+  "lookbackDays": 14,
+
+  "productPickupMap": {},
+  "skuPickupMap": {},
+  "productWeights": {},
+
+  "minCourierRating": 4,
+  "courierPreference": "cheapest",
+  "maxFreightPerOrder": null,
+  "bannedCouriers": [],
+  "bannedCouriersByPickup": {},
+  "allowCod": true,
+
+  "labelLayout": "by-product",
+  "labelLayoutByPickup": {},
+
+  "skipOrders": [],
+  "notify": { "type": "none" },
+  "wallet": { "bufferRupees": 200, "estimatedDailyOrders": 20, "avgFreightFallback": 80 },
+  "defaultWeightKg": 0.5
+}
