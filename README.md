@@ -74,7 +74,7 @@ one step at a time. Each step, it tells you exactly what to click, you say "done
   in one place.
 - **Say labels are ready when some are missing.** Shiprocket sometimes drops labels on big batches without an error;
   every PDF's pages are counted.
-- **Spend money without you.** Setup only books after you approve a dry run. After that, only the schedule you set runs it.
+- **Go live untested.** A dry run first shows exactly what it would ship. Once you approve, it runs by itself on the schedule you set.
 - **Send your data anywhere.** It talks to Shiprocket and your chat app, nothing else. Passwords stay in a file on your computer.
 
 ## Built from a real store
